@@ -1,0 +1,19 @@
+{
+  "name": "poc-pactumjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pactum": "^3.3.2"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "prettier": "^2.8.4"
+  }
+}
